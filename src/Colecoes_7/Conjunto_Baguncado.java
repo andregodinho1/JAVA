@@ -1,4 +1,4 @@
-package colecoes;
+package Colecoes_7;
 
 import java.util.HashSet;
 import java.util.Set;
