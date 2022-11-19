@@ -1,4 +1,4 @@
-package Exercicios_Fundamentos_3;
+package Desafos_Fundamentos_3;
 public class Desafio_Logico {
 
     public static void main(String[] args) {

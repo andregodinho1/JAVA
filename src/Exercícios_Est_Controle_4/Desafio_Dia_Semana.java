@@ -1,4 +1,4 @@
-package Exercícios_Est_Controle;
+package Exercícios_Est_Controle_4;
 
 import java.util.Scanner;
 

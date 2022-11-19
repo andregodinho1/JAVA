@@ -1,8 +1,8 @@
-package Fundamentos.operadores_3;
+package Fundamentos_3;
 public class Ternario {
     public static void main(String[] args) {
-        double media = 7.1;
-        String parcial_resultado = media >= 5 ? "de recuperação" : "reprovado";
+        double media = 4.1;
+        String parcial_resultado = media <= 5 ? "de recuperação" : "reprovado";
         String final_resultado = media >= 7 ? "aprovado" : parcial_resultado;
         
         

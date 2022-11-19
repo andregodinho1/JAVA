@@ -1,4 +1,4 @@
-package Desafios_Classes_Metodos;
+package Desafios_Classes_Metodos_5;
 
 public class Desafio_Primeiro_Trauma {
 

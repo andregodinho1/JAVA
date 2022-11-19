@@ -1,4 +1,4 @@
-package Desafios_Classes_Metodos;
+package Desafios_Classes_Metodos_5;
 public class Comida {
 String nome_comida;
 double peso_comida;
