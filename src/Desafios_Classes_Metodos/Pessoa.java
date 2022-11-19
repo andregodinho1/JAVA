@@ -1,4 +1,4 @@
-package Classe.Desafio_5;
+package Desafios_Classes_Metodos;
 public class Pessoa {
 String nome_pessoa;
 double peso_pessoa;

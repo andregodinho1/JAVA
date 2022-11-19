@@ -1,4 +1,4 @@
-package Classe.Desafio_5;
+package Desafios_Classes_Metodos;
 
 import java.util.Locale;
 import java.util.Scanner;
