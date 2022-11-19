@@ -1,4 +1,4 @@
-package Exercícios_Est_Controle_4;
+package Desafios_Est_Controle_4;
 
 import java.util.Scanner;
 
