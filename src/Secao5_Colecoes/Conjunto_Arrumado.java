@@ -12,10 +12,10 @@ public class Conjunto_Arrumado {
         listaAprovados.add("Luca"); 
         listaAprovados.add("Pedro");
         
-        
         for(String candidato: listaAprovados) {
             System.out.println(candidato);
         }
     }
     
 }
+

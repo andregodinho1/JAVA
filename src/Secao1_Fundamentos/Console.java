@@ -12,7 +12,7 @@ public class Console {
         
         System.out.println(" \nBom");
         System.out.println("Dia");
-        
+
         System.out.printf("Resultado da Telesena: 10, 20, 30, 40, 50, 60\n");
         System.out.printf("Salário: %.1f%n", 12345.678);
         System.out.printf("Nome: %s%n", "André");
@@ -33,7 +33,6 @@ public class Console {
         entrada.close();
         
         
-                
     }    
                
 }
